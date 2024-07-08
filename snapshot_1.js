@@ -47,7 +47,7 @@ drawLines([
     // Chimney
     [[(width / 2) + 10, roofHeight + roofHeight - 13], [(width / 2) + 10, roofHeight + roofHeight]],
     [[(width / 2) + 10, roofHeight + roofHeight], [(width / 2) + 15, roofHeight + roofHeight]],
-    [[(width / 2) + 15, roofHeight + roofHeight], [(width / 2) + 15, roofHeight + roofHeight - 21]],
+    [[(width / 2) + 15, roofHeight + roofHeight], [(width / 2) + 15, roofHeight + roofHeight - 20]],
 ]);
 
 drawLines(finalLines);
