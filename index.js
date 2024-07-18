@@ -1,3 +1,9 @@
+/*
+@title: yourTitle
+@author: Jakob
+@snapshot: this fiel (index.js)
+*/
+
 const width = 125;
 const height = 125;
 setDocDimensions(width, height);
